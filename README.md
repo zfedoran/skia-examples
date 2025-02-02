@@ -9,10 +9,22 @@ with rust.
 
 ## Examples
 
-1. Simple [Hello, World](./example-1/src/main.rs)
-2. Emoji Fallback [Hello, World 🌎](./example-2/src/main.rs)
-3. Harfbuzz Right-to-Left [(Arabic)](./example-3/src/main.rs)
-3. Harfbuzz Emoji Fallback [Hello, World 🌎](./example-4/src/main.rs)
+1. [Simple Text](./example-1/src/main.rs)
+
+   <img width="140px" src="https://github.com/zfedoran/plugy-examples/blob/main/example-1/output.png?raw=true">
+
+2. [Emoji Fallback](./example-2/src/main.rs)
+
+   <img width="300px" src="https://github.com/zfedoran/plugy-examples/blob/main/example-2/output_fallback.png?raw=true">
+
+3. [Harfbuzz Right-to-Left](./example-3/src/main.rs)
+
+   <img width="300px" src="https://github.com/zfedoran/plugy-examples/blob/main/example-3/output_rtl.png?raw=true">
+
+4. [Harfbuzz Emoji Fallback](./example-4/src/main.rs)
+
+   <img width="200px" src="https://github.com/zfedoran/plugy-examples/blob/main/example-4/fallback_hb.png?raw=true">
+
 
 ## Dependencies
 
