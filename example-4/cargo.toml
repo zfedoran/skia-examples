@@ -1,0 +1,9 @@
+[package]
+name = "example-4"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+skia-safe = "0.81.0"
+harfbuzz_rs = "2.0.1"
+unicode-segmentation = "1.9.0"

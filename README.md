@@ -10,8 +10,9 @@ with rust.
 ## Examples
 
 1. Simple [Hello, World](./example-1/src/main.rs)
-2. Emoji [Hello, World 🌎](./example-2/src/main.rs)
-3. Right-to-Left [(Arabic)](./example-3/src/main.rs)
+2. Emoji Fallback [Hello, World 🌎](./example-2/src/main.rs)
+3. Harfbuzz Right-to-Left [(Arabic)](./example-3/src/main.rs)
+3. Harfbuzz Emoji Fallback [Hello, World 🌎](./example-4/src/main.rs)
 
 ## Dependencies
 
