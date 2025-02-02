@@ -1,4 +1,4 @@
-# Plugy-Examples
+# Skia-Examples
 
 This repository contains some examples of how to use skia to draw some text and
 shapes on a canvas using rust, harfbuzz and freetype.
