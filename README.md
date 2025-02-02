@@ -7,6 +7,8 @@ I had a hard time finding examples (that just work), so I decided to create
 this repository to help others who are looking for examples of how to use skia
 with rust.
 
+(rendering text is [hard](https://behdad.org/text2024/))
+
 ## Examples
 
 1. [Simple Text](./example-1/src/main.rs)
