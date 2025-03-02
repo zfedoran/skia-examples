@@ -15,6 +15,8 @@ with rust.
 2. [Emoji Fallback](./example-2/src/main.rs)
 3. [Harfbuzz Right-to-Left](./example-3/src/main.rs)
 4. [Harfbuzz Emoji Fallback](./example-4/src/main.rs)
+5. [Harfbuzz with FreeType paths](./example-5/src/main.rs)
+6. [Rustybuzz with FreeType paths](./example-6/src/main.rs)
 
 ## Dependencies
 
