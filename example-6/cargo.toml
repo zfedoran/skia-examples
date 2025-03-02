@@ -1,0 +1,10 @@
+[package]
+name = "example-6"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+freetype-rs = "0.38.0"
+rustybuzz = "0.20.1"
+skia-safe = "0.81.0"
+unicode-bidi = "0.3.18"
